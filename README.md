@@ -10,7 +10,7 @@
                SSH: git@github.com:alenakatkova96/Diplom_work.git*
 
 
-## Prerequisites
+## Подготовка
 
 На ПК должны быть установлены и настроены:
 
