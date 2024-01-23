@@ -65,6 +65,6 @@
 16. Остановить контейнеры Docker из терминала командой: *docker-compose down*
 
 
-* ### [План автоматизации тестирования](https://github.com/EkaterinaEv/Diploma/blob/main/docs/Plan.md#план-автоматизации-тестирования-вэб-сервиса-для-покупки-тура-с-оплатой-дебетовой-или-кредитной-картой)
-* ### [Отчёт о проведённом тестировании](https://github.com/EkaterinaEv/Diploma/blob/main/docs/Report.md)
-* ### [Отчёт о проведённой автоматизации](https://github.com/EkaterinaEv/Diploma/blob/main/docs/Summary.md)
+* ### [План автоматизации тестирования](https://github.com/alenakatkova96/Diplom_work/blob/main/docs/Plan.md)
+* ### [Отчёт о проведённом тестировании](https://github.com/alenakatkova96/Diplom_work/blob/main/docs/Report.md)
+* ### [Отчёт о проведённой автоматизации](https://github.com/alenakatkova96/Diplom_work/blob/main/docs/Summary.md)
