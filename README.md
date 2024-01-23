@@ -7,6 +7,7 @@
 Чтобы получить локальную копию проекта, необходимо склонировать репозиторий командой 
 
 *git clone для HTTPS: https://github.com/alenakatkova96/Diplom_work.git
+
                SSH: git@github.com:alenakatkova96/Diplom_work.git*
 
 
